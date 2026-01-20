@@ -1,4 +1,4 @@
-25633767264842849
+25635536153983582
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95864,6 +95864,13 @@ EC11-Horizontal
 0
 7
 6
+Taranium-libs
+Lanyard hole
+
+
+0
+1
+1
 Taranium-libs
 MODULE_DM-OLED096-636
 
