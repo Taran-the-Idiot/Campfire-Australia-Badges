@@ -1,0 +1,6 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins,MANUFACTURER
+C1,1,C,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,smt,Unpolarized capacitor,,
+D1,1,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,,smt,Light emitting diode,1=K 2=A,
+J1,1,Conn_01x02_Pin,25x_48mm NFC Antenna,,,,smt,"Generic connector, single row, 01x02, script generated",,
+R1,1,R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,smt,Resistor,,
+U1,1,NT3H2111W0FHKH,QFN8P50_160X160X50L40X20N,,,,smt,,,NXP Semiconductors
