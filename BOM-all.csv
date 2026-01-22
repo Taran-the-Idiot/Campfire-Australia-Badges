@@ -1,0 +1,5 @@
+Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins,MANUFACTURER
+C1,1,C,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,0603,,,smt,220nF 25V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,,any/open
+D1,1,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,0805,,,smt,-40℃~+85℃ 1.8V~2.4V 120° 175mcd 40mW 584nm~594nm 596nm Discrete Diode Water Clear Yellow 0805 LED Indication - Discrete ROHS,1=K 2=A,any/open
+U1,1,NT3H2111W0FHKH,QFN8P50_160X160X50L40X20N,XQFN-8,,,smt,"106Kbit/s 13.56MHz 3.3V I2C ISO 14443A,NFC XQFN-8(1.6x1.6) RFID ICs ROHS",,NXP Semiconductors
+R1,1,R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,0603,,,smt,-55℃~+155℃ 100mW 47Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS,,any/open
